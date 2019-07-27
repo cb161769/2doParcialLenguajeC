@@ -1,0 +1,2 @@
+# 2doParcialLenguajeC
+2do_parcial_lenguaje_c
